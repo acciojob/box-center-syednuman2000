@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+div {
+    border: 2px SOLID black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    background-color: lightblue;
+    display: inline-block;
+}
+
+p {
+    color: purple;
+    display: inline-block;
+    margin: 100;
+}
